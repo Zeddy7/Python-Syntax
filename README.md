@@ -1,2 +1,2 @@
-# Python-Syntax
+# Python Beginning
 Building my Python Syntax Knowledge
